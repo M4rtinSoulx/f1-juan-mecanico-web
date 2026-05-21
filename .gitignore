@@ -1,0 +1,19 @@
+# Ignorar paquetes instalados localmente
+python_packages/
+
+# Ignorar archivos de Python generados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+venv/
+
+# Configuración de editor
+.vscode/
+.idea/
+
+# Variables de entorno
+.env
